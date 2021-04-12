@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hadifar.github.io/sitemap.xml
