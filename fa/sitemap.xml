@@ -4,18 +4,6 @@
   <url>
     <loc>https://hadifar.github.io/fa/posts/first/</loc>
   </url><url>
-    <loc>https://hadifar.github.io/fa/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hadifar.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hadifar.github.io/fa/"
-                />
-  </url><url>
     <loc>https://hadifar.github.io/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -53,5 +41,19 @@
                 hreflang="fa"
                 href="https://hadifar.github.io/fa/tags/"
                 />
+  </url><url>
+    <loc>https://hadifar.github.io/fa/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hadifar.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://hadifar.github.io/fa/"
+                />
+  </url><url>
+    <loc>https://hadifar.github.io/fa/search/</loc>
   </url>
 </urlset>
