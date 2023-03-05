@@ -2,17 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hadifar.github.io/fa/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hadifar.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://hadifar.github.io/fa/categories/"
-                />
+    <loc>https://hadifar.github.io/fa/posts/first/</loc>
   </url><url>
     <loc>https://hadifar.github.io/fa/</loc>
     <xhtml:link
@@ -25,6 +15,20 @@
                 hreflang="fa"
                 href="https://hadifar.github.io/fa/"
                 />
+  </url><url>
+    <loc>https://hadifar.github.io/fa/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hadifar.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://hadifar.github.io/fa/categories/"
+                />
+  </url><url>
+    <loc>https://hadifar.github.io/fa/posts/</loc>
   </url><url>
     <loc>https://hadifar.github.io/fa/series/</loc>
     <xhtml:link
