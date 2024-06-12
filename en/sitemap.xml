@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hadifar.github.io/</loc>
+    <loc>https://Sanaz.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://hadifar.github.io/fa/"
+                href="https://Sanaz.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hadifar.github.io/"
+                href="https://Sanaz.github.io/"
                 />
   </url><url>
     <loc>https://hadifar.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://hadifar.github.io/fa/categories/"
+                href="https://Sanaz.github.io/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hadifar.github.io/categories/"
+                href="https://Sanaz.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hadifar.github.io/series/</loc>
+    <loc>https://Sanaz.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://hadifar.github.io/fa/series/"
+                href="https://Sanaz.github.io/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hadifar.github.io/series/"
+                href="https://Sanaz.github.io/series/"
                 />
   </url><url>
-    <loc>https://hadifar.github.io/tags/</loc>
+    <loc>https://Sanaz.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://hadifar.github.io/fa/tags/"
+                href="https://Sanaz.github.io/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hadifar.github.io/tags/"
+                href="https://Sanaz.github.io/tags/"
                 />
   </url>
 </urlset>
