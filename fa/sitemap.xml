@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Sanaz.github.io/fa/posts/first/</loc>
+    <loc>https://sanazmhd.github.io/fa/posts/first/</loc>
   </url><url>
-    <loc>https://Sanaz.github.io/fa/posts/second/</loc>
+    <loc>https://sanazmhd.github.io/fa/posts/second/</loc>
   </url><url>
-    <loc>https://Sanaz.github.io/fa/categories/</loc>
+    <loc>https://sanazmhd.github.io/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Sanaz.github.io/categories/"
+                href="https://sanazmhd.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://Sanaz.github.io/fa/categories/"
+                href="https://sanazmhd.github.io/fa/categories/"
                 />
   </url><url>
-    <loc>https://Sanaz.github.io/fa/posts/</loc>
+    <loc>https://sanazmhd.github.io/fa/posts/</loc>
   </url><url>
-    <loc>https://Sanaz.github.io/fa/series/</loc>
+    <loc>https://sanazmhd.github.io/fa/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Sanaz.github.io/series/"
+                href="https://sanazmhd.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://Sanaz.github.io/fa/series/"
+                href="https://sanazmhd.github.io/fa/series/"
                 />
   </url><url>
-    <loc>https://Sanaz.github.io/fa/tags/</loc>
+    <loc>https://sanazmhd.github.io/fa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Sanaz.github.io/tags/"
+                href="https://sanazmhd.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://Sanaz.github.io/fa/tags/"
+                href="https://sanazmhd.github.io/fa/tags/"
                 />
   </url><url>
-    <loc>https://Sanaz.github.io/fa/</loc>
+    <loc>https://sanazmhd.github.io/fa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Sanaz.github.io/"
+                href="https://sanazmhd.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://Sanaz.github.io/fa/"
+                href="https://sanazmhd.github.io/fa/"
                 />
   </url><url>
-    <loc>https://Sanaz.github.io/fa/search/</loc>
+    <loc>https://sanazmhd.github.io/fa/search/</loc>
   </url>
 </urlset>
