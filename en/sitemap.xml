@@ -2,52 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanazmhi.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sanazmhi.github.io/fa/"
-                />
+    <loc>https://sanazmhd.github.io/fa/posts/first/</loc>
+  </url><url>
+    <loc>https://sanazmhd.github.io/fa/posts/second/</loc>
+  </url><url>
+    <loc>https://sanazmhd.github.io/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sanazmhi.github.io/"
+                href="https://sanazmhd.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sanazmhd.github.io/fa/categories/"
                 />
   </url><url>
-    <loc>https://hadifar.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sanazmhi.github.io/fa/categories/"
-                />
+    <loc>https://sanazmhd.github.io/fa/posts/</loc>
+  </url><url>
+    <loc>https://sanazmhd.github.io/fa/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sanazmhi.github.io/categories/"
+                href="https://sanazmhd.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sanazmhd.github.io/fa/series/"
                 />
   </url><url>
-    <loc>https://sanazmhi.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sanazmhi.github.io/fa/series/"
-                />
+    <loc>https://sanazmhd.github.io/fa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sanazmhi.github.io/series/"
+                href="https://sanazmhd.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sanazmhd.github.io/fa/tags/"
                 />
   </url><url>
-    <loc>https://sanazmhi.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sanazmhi.github.io/fa/tags/"
-                />
+    <loc>https://sanazmhd.github.io/fa/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sanazmhi.github.io/tags/"
+                href="https://sanazmhd.github.io/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sanazmhd.github.io/fa/"
+                />
+  </url><url>
+    <loc>https://sanazmhd.github.io/fa/search/</loc>
   </url>
 </urlset>
