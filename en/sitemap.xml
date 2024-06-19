@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanazmhd.github.io/fa/posts/first/</loc>
+    <loc>https://Sanazmhd.github.io/en/posts/first/</loc>
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/posts/second/</loc>
+    <loc>https://Sanazmhd.github.io/en/posts/second/</loc>
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/categories/</loc>
+    <loc>https://Sanazmhd.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,12 +15,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://sanazmhd.github.io/fa/categories/"
+                href="https://Sanazmhd.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/posts/</loc>
+    <loc>https://Sanazmhd.github.io/en/posts/</loc>
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/series/</loc>
+    <loc>https://Sanazmhd.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,10 +29,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://sanazmhd.github.io/fa/series/"
+                href="https://Sanazmhd.github.io/en/series/"
                 />
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/tags/</loc>
+    <loc>https://Sanazmhd.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,10 +41,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://sanazmhd.github.io/fa/tags/"
+                href="https://Sanazmhd.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/</loc>
+    <loc>https://Sanazmhd.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,9 +53,9 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://sanazmhd.github.io/fa/"
+                href="https://Sanazmhd.github.io/en/"
                 />
   </url><url>
-    <loc>https://sanazmhd.github.io/fa/search/</loc>
+    <loc>https://Sanazmhd.github.io/en/search/</loc>
   </url>
 </urlset>
