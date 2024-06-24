@@ -29,10 +29,8 @@ A record, or row, is a single entry in the table. For instance, the Customers ta
 
 A column is a vertical section in a table that contains all the information for a specific field.</p>
 
-        <p>Some database systems require a semicolon at the end of each SQL statement.</p>
-        <h2>Some of The Most Important SQL Commands</h2>
+        <p>Some database systems require a semicolon at the end of each SQL statement And keep in mind SQL keywords are NOT case sensitive: select is the same as SELECT</p>
         <hr>
-
 <h2>Some of The Most Important SQL Commands</h2>
 <ul>
   <li><code class="w3-codespan">SELECT</code> - extracts data from a database</li>
@@ -48,10 +46,21 @@ A column is a vertical section in a table that contains all the information for 
   <li><code class="w3-codespan">DROP INDEX</code> - deletes an index
   </li>
 </ul>
+        <hr>
+
+<h2>The SQL SELECT Statement</h2>
+<p>The <code class="w3-codespan">SELECT</code> statement is used to select data from a database.</p>
+
+<div class="w3-example">
+<h3>Example</h3>
+<p>Return data from the Customers table:</p>
+<div class="w3-code notranslate sqlHigh">
+SELECT CustomerName, City FROM Customers;
+</div>
 
     </main>
     <footer>
-        <p>Footer content here.</p>
+        <p>Sanaz.</p>
     </footer>
 </body>
 </html>
